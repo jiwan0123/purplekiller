@@ -12,4 +12,8 @@ Cargo.lock
 **/*.rs.bk
 
 # MSVC Windows builds of rustc generate these, which store debugging information
+<<<<<<< HEAD
 *.pdb
+=======
+*.pdb
+>>>>>>> aac64d71572509332b83e563ea1889da2e7c1925
